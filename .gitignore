@@ -1,0 +1,16 @@
+media/*
+*.pyc
+.idea
+.idea/misc.xml
+.idea/workspace.xml
+.DS_Store
+*.rdb
+*/.cache
+*.swp
+*.dump
+staticfiles/*
+db.sqlite3
+logs/*
+*.pdfsendgrid.env
+.nvim/
+env/
